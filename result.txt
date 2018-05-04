@@ -7,5 +7,14 @@ practice1
 |    1 | xiaohong |   19 | female |         1 | 7000.00 |
 +------+----------+------+--------+-----------+---------+
 
+practice2
+
++-------------+----------+
+| companyName | name     |
++-------------+----------+
+| baidu       | xiaoming |
+| alibaba     | xiaohong |
+| tengxun     | xiaozhi  |
++-------------+----------+
 
 
